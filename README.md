@@ -1,1 +1,1 @@
-# OpenWeatherMap_YandexMax
+# OpenWeatherMap + YandexMap
